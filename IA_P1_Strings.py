@@ -1,0 +1,3 @@
+
+mensaje = '"strings"'
+print (mensaje)
