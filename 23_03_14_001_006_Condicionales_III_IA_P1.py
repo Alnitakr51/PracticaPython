@@ -1,4 +1,8 @@
+"""
+Created on Fri Mar 17 08:48:31 2023
 
+@author: Gadiel Jimenez
+"""
 #100 a 120
 #18 a 45
 

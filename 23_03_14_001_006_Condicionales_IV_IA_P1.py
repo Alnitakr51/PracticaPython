@@ -1,4 +1,8 @@
+"""
+Created on Fri Mar 17 08:48:31 2023
 
+@author: Gadiel Jimenez
+"""
 colores = input('Introduce un color:\n')
 tupla_colores = ('rojo', 'azul', 'verde', 'amarillo')
 

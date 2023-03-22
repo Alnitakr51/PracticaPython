@@ -1,4 +1,8 @@
+"""
+Created on Fri Mar 17 08:48:31 2023
 
+@author: Gadiel Jimenez
+"""
 def colores(*args):
 	print('El color', args[1], 'es mi favorito.', 'El color', args[0], 'tampoco está mal.')
 
